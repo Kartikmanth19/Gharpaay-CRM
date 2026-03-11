@@ -1,4 +1,5 @@
 // import Dashboard from "../components/Dashboard"
+import AddLead from "../components/AddLead"
 import LeadTable from "../src/components/LeadTable"
 import Pipeline from "../src/components/Pipeline"
 import Leaderboard from "../src/components/Leaderboard"
